@@ -1,13 +1,13 @@
 # Project: Apple Page Clone
 
 This is one of the HTML/CSS curriculum project at [Microverse](https://www.microverse.org/)
-It was about making a clone of a [Apple webiste ](https://web.archive.org/web/20140301004610/http://www.apple.com/)
+It was about making a clone of an [Apple webiste ](https://web.archive.org/web/20140301004610/http://www.apple.com/)
 
 ## Project Objectives
 
-- Application of gradient backgrounds
-- Alligning elements with flex display
-- Positioning with relative and absolute
+- Apply gradient to background
+- Alligning elements
+- Apply relative and absolute
 
 ### [Assingment Link](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients)
 
